@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows"
+  ],
+  "SelectedNode": "\\.github\\workflows\\docker-image.yml",
+  "PreviewInSolutionExplorer": false
+}
