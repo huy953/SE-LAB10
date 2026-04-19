@@ -26,5 +26,7 @@ jobs:
       - name: Build and push
         uses: docker/build-push-action@v5
         with:
+          context: ./Exercise2_MVC/SchoolAppCoreMVC
+          file: ./Exercise2_MVC/SchoolAppCoreMVC/Dockerfile
           push: true
           tags: zua1213/myaspnetcoreapp:latest
